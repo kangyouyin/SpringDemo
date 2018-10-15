@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.15">
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\controllers\HelloController.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\controllers\MyServlet.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\controllers\TestController.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\ImgUtil.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\OSSClient.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\RunnableDemo.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\resources\springdemo.properties">
+</file>
+</checkstyle>
