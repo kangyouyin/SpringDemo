@@ -6,11 +6,17 @@
 </file>
 <file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\controllers\TestController.java">
 </file>
-<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\ImgUtil.java">
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\handler\impl\UserHandlerImpl.java">
 </file>
-<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\OSSClient.java">
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\handler\UserHandler.java">
 </file>
-<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\RunnableDemo.java">
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\orm\mapper\UserInfoMapper.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\orm\model\UserInfo.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\orm\model\UserInfoExample.java">
+</file>
+<file name="E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\service\UserInfoService.java">
 </file>
 <file name="E:\gitHub\springdemo\src\main\resources\springdemo.properties">
 </file>

@@ -1,6 +1,12 @@
-com\kyy\springmvc\controllers\TestController.class
-com\kyy\springmvc\util\OSSClient.class
-com\kyy\springmvc\util\RunnableDemo.class
-com\kyy\springmvc\controllers\HelloController.class
+com\kyy\springmvc\service\UserInfoService.class
+com\kyy\springmvc\orm\model\UserInfoExample.class
+com\kyy\springmvc\orm\model\UserInfoExample$Criterion.class
 com\kyy\springmvc\controllers\MyServlet.class
-com\kyy\springmvc\util\ImgUtil.class
+com\kyy\springmvc\handler\impl\UserHandlerImpl.class
+com\kyy\springmvc\controllers\TestController.class
+com\kyy\springmvc\handler\UserHandler.class
+com\kyy\springmvc\orm\model\UserInfo.class
+com\kyy\springmvc\orm\model\UserInfoExample$Criteria.class
+com\kyy\springmvc\controllers\HelloController.class
+com\kyy\springmvc\orm\mapper\UserInfoMapper.class
+com\kyy\springmvc\orm\model\UserInfoExample$GeneratedCriteria.class

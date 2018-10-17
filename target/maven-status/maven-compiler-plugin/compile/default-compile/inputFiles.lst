@@ -1,6 +1,9 @@
+E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\orm\mapper\UserInfoMapper.java
 E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\controllers\TestController.java
-E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\ImgUtil.java
+E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\handler\impl\UserHandlerImpl.java
 E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\controllers\HelloController.java
-E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\OSSClient.java
-E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\util\RunnableDemo.java
+E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\handler\UserHandler.java
+E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\orm\model\UserInfoExample.java
 E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\controllers\MyServlet.java
+E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\orm\model\UserInfo.java
+E:\gitHub\springdemo\src\main\java\com\kyy\springmvc\service\UserInfoService.java

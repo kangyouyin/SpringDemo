@@ -18,4 +18,5 @@
     <aop:aspectj-autoproxy/>
 
     <import resource="classpath*:spring/servlet-context.xml" />
+    <import resource="classpath*:spring/data-context.xml"/>
 </beans>

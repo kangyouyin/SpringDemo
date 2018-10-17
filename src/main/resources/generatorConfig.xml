@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration PUBLIC
+        "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <classPathEntry
+            location="E:\maven-repository\repository\mysql\mysql-connector-java\5.1.35\mysql-connector-java-5.1.35.jar"/>
+
+    <context id="DB2Tables" targetRuntime="MyBatis3" defaultModelType ="flat" >
+        <plugin type="org.mybatis.generator.plugins.SerializablePlugin"/>
+
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://192.168.177.79:3306/kyy_test?characterEncoding=UTF8"
+                        userId="root"
+                        password="root">
+        </jdbcConnection>
+
+        <javaModelGenerator targetPackage="com.kyy.springmvc.orm.model" targetProject="E:\gitHub\springdemo\src\main\java">
+            <property name="enableSubPackages" value="true"/>
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+
+       <sqlMapGenerator targetPackage="orm.mapper" targetProject="E:\gitHub\springdemo\src\main\resources">
+            <property name="enableSubPackages" value="true"/>
+        </sqlMapGenerator>
+
+         <javaClientGenerator type="XMLMAPPER" targetPackage="com.kyy.springmvc.orm.mapper" targetProject="E:\gitHub\springdemo\src\main\java">
+            <property name="enableSubPackages" value="true"/>
+        </javaClientGenerator>
+
+        <table schema="sq_slfile" tableName="user_info" domainObjectName="UserInfo">
+            <property name="useActualColumnNames" value="false"/>
+            <generatedKey column="id" sqlStatement="MYSQL" identity="true"/>
+        </table>
+
+    </context>
+</generatorConfiguration>
