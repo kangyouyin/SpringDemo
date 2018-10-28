@@ -25,6 +25,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.1.10" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk:1.11.136" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-athena:1.11.136" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:jmespath-java:1.11.136" level="project" />

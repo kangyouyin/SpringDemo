@@ -28,6 +28,9 @@
         <jstl.version>1.2</jstl.version>
         <servlet.version>2.5</servlet.version>
 
+        <!-- Database connection pool -->
+        <druid-version>1.1.10</druid-version>
+
         <!-- checkstyle -->
         <air.main.basedir>${project.basedir}</air.main.basedir>
         <air.check.fail-checkstyle>true</air.check.fail-checkstyle>
@@ -36,6 +39,11 @@
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>${druid-version}</version>
+        </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk</artifactId>
